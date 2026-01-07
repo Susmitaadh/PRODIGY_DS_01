@@ -1,9 +1,9 @@
-# PRODIGY_DS_01 – Data Visualisation Task
+# PRODIGY_DS_01 – Data Visualization Task
 
 ## Task Description
 This project is part of the Prodigy Infotech Data Science Internship.
-The task focuses on visualising population data using basic data analysis
-and visualisation techniques.
+The task focuses on visualizing population data using basic data analysis
+and visualization techniques.
 
 ## Dataset
 - world_population.csv
